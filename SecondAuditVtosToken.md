@@ -11,7 +11,7 @@
 The audit makes no statements or warranties about utility of the code, safety of the code, suitability of the business model, regulatory regime for the business model, or any other statements about fitness of the contracts to purpose, or their bug free status. The audit documentation is for discussion purposes only.
 
 ## 2. Abstract
-The following is an audit made to VTOSTokenfinalaudit.sol smart contract (https://github.com/VTOSFOUNDATION/tokens) and will cover a series of technical and good behavior checks.
+The following is an audit made to VTOSToken2.sol smart contract (https://github.com/VTOSFOUNDATION/tokens) and will cover a series of technical and good behavior checks.
 
 At the moment of this audit a previous one were made, use it as complement and reference (https://github.com/VTOSFOUNDATION/audit)
 
